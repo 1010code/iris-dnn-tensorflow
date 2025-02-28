@@ -18,7 +18,7 @@ cd iris-dnn-tensorflow
 ### Installation
 When that's done, install the project dependencies.
 ```bash
-python install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Contribute
