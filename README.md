@@ -1,6 +1,11 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/1010code/iris-dnn-tensorflow/master)
 
+範例程式(Class)：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/andy6804tw/crazyai-llm/blob/main/docs/3.免費LLM%20API串接資源/github-basic.ipynb](https://colab.research.google.com/github/1010code/iris-dnn-tensorflow/blob/master/iris(DNN-tensorflow2.0)-Class.ipynb))
+
+範例程式(Functional)：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/andy6804tw/crazyai-llm/blob/main/docs/3.免費LLM%20API串接資源/github-basic.ipynb](https://colab.research.google.com/github/1010code/iris-dnn-tensorflow/blob/master/iris(DNN-tensorflow2.0)-Functional.ipynb))
+
+範例程式(Sequential)：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/andy6804tw/crazyai-llm/blob/main/docs/3.免費LLM%20API串接資源/github-basic.ipynb](https://colab.research.google.com/github/1010code/iris-dnn-tensorflow/blob/master/iris(DNN-tensorflow2.0)-Sequential.ipynb))
 
 ## Getting Started
 ### Clone Project
